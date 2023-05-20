@@ -1,0 +1,2 @@
+# Course-Cupid-Course-Recommender-System---DDA4210-Advanced-Machine-Learning-Group-Final-Project
+CourseCupid is a course recommender system designed to assist students at the Chinese University of Hong Kong, Shenzhen (CUHKSZ) in selecting suitable courses based on their interests. With a vast selection of over a hundred courses available, it can be challenging for students to find the courses that align with their preferences.
